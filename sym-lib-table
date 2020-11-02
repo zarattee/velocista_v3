@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name VELOCISTA-rescue)(type Legacy)(uri ${KIPRJMOD}/VELOCISTA-rescue.lib)(options "")(descr ""))
+  (lib (name EESTN5)(type Legacy)(uri "D:/Librerias Kicad/EESTN5.lib")(options "")(descr ""))
+)
